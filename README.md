@@ -27,4 +27,18 @@ speech_recognition – Converts spoken language into text
 pyttsx3 – Text-to-speech conversion
 datetime – Date and time operations
 webbrowser – To open web pages
-os – To interact with the operating system
+os – To interact with the operating system.
+
+💡 Example Commands
+
+"What is the time?"
+
+"Open YouTube"
+
+"Search Python programming on Google"
+
+"Tell me about Albert Einstein"
+
+"Open Notepad"
+
+
